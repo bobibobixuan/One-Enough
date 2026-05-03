@@ -1,0 +1,15 @@
+{
+	"required": true,
+	"package": "top.bobixuan.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"TagGroupLoaderMixin",
+		"RecipeManagerMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}
