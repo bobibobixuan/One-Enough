@@ -1,0 +1,1552 @@
+﻿[
+    {
+        "repo":  "0999312/Corn-Delight",
+        "path":  "Corn-Delight-1.20.x/src/main/resources/data/curios/tags/items/head.json",
+        "url":  "https://github.com/0999312/Corn-Delight"
+    },
+    {
+        "repo":  "0999312/Corn-Delight",
+        "path":  "Corn-Delight-1.20.x/src/main/resources/data/farmersdelight/tags/items/wild_crops.json",
+        "url":  "https://github.com/0999312/Corn-Delight"
+    },
+    {
+        "repo":  "0999312/Corn-Delight",
+        "path":  "Corn-Delight-1.20.x/src/main/resources/data/forge/tags/items/bread.json",
+        "url":  "https://github.com/0999312/Corn-Delight"
+    },
+    {
+        "repo":  "0999312/Corn-Delight",
+        "path":  "Corn-Delight-1.20.x/src/main/resources/data/forge/tags/items/bread/corn.json",
+        "url":  "https://github.com/0999312/Corn-Delight"
+    },
+    {
+        "repo":  "0999312/Corn-Delight",
+        "path":  "Corn-Delight-1.20.x/src/main/resources/data/forge/tags/items/crops.json",
+        "url":  "https://github.com/0999312/Corn-Delight"
+    },
+    {
+        "repo":  "0999312/Corn-Delight",
+        "path":  "Corn-Delight-1.20.x/src/main/resources/data/forge/tags/items/crops/corn.json",
+        "url":  "https://github.com/0999312/Corn-Delight"
+    },
+    {
+        "repo":  "0999312/Corn-Delight",
+        "path":  "Corn-Delight-1.20.x/src/main/resources/data/forge/tags/items/grain/corn.json",
+        "url":  "https://github.com/0999312/Corn-Delight"
+    },
+    {
+        "repo":  "0999312/Corn-Delight",
+        "path":  "Corn-Delight-1.20.x/src/main/resources/data/forge/tags/items/popcorn.json",
+        "url":  "https://github.com/0999312/Corn-Delight"
+    },
+    {
+        "repo":  "0999312/Corn-Delight",
+        "path":  "Corn-Delight-1.20.x/src/main/resources/data/forge/tags/items/seeds.json",
+        "url":  "https://github.com/0999312/Corn-Delight"
+    },
+    {
+        "repo":  "0999312/Corn-Delight",
+        "path":  "Corn-Delight-1.20.x/src/main/resources/data/forge/tags/items/seeds/corn.json",
+        "url":  "https://github.com/0999312/Corn-Delight"
+    },
+    {
+        "repo":  "0999312/Corn-Delight",
+        "path":  "Corn-Delight-1.20.x/src/main/resources/data/forge/tags/items/tortilla.json",
+        "url":  "https://github.com/0999312/Corn-Delight"
+    },
+    {
+        "repo":  "0999312/Corn-Delight",
+        "path":  "Corn-Delight-1.20.x/src/main/resources/data/forge/tags/items/vegetables.json",
+        "url":  "https://github.com/0999312/Corn-Delight"
+    },
+    {
+        "repo":  "0999312/Corn-Delight",
+        "path":  "Corn-Delight-1.20.x/src/main/resources/data/forge/tags/items/vegetables/corn.json",
+        "url":  "https://github.com/0999312/Corn-Delight"
+    },
+    {
+        "repo":  "0999312/Corn-Delight",
+        "path":  "Corn-Delight-1.20.x/src/main/resources/data/minecraft/tags/items/chicken_food.json",
+        "url":  "https://github.com/0999312/Corn-Delight"
+    },
+    {
+        "repo":  "0999312/Corn-Delight",
+        "path":  "Corn-Delight-1.20.x/src/main/resources/data/minecraft/tags/items/enchantable/equippable.json",
+        "url":  "https://github.com/0999312/Corn-Delight"
+    },
+    {
+        "repo":  "0999312/Corn-Delight",
+        "path":  "Corn-Delight-1.20.x/src/main/resources/data/minecraft/tags/items/enchantable/vanishing.json",
+        "url":  "https://github.com/0999312/Corn-Delight"
+    },
+    {
+        "repo":  "0999312/Corn-Delight",
+        "path":  "Corn-Delight-1.20.x/src/main/resources/data/minecraft/tags/items/pig_food.json",
+        "url":  "https://github.com/0999312/Corn-Delight"
+    },
+    {
+        "repo":  "0999312/Corn-Delight",
+        "path":  "Corn-Delight-1.20.x/src/main/resources/data/minecraft/tags/items/villager_plantable_seeds.json",
+        "url":  "https://github.com/0999312/Corn-Delight"
+    },
+    {
+        "repo":  "0999312/Corn-Delight",
+        "path":  "Corn-Delight-1.20.x/src/main/resources/data/sereneseasons/tags/items/autumn_crops.json",
+        "url":  "https://github.com/0999312/Corn-Delight"
+    },
+    {
+        "repo":  "0999312/Corn-Delight",
+        "path":  "Corn-Delight-1.20.x/src/main/resources/data/sereneseasons/tags/items/summer_crops.json",
+        "url":  "https://github.com/0999312/Corn-Delight"
+    },
+    {
+        "repo":  "akkiserver-dev/Immersive-Cooking",
+        "path":  "Immersive-Cooking-1.20.1/src/generated/resources/data/immersivecooking/tags/items/juice_ingredients/apple_juice.json",
+        "url":  "https://github.com/akkiserver-dev/Immersive-Cooking"
+    },
+    {
+        "repo":  "akkiserver-dev/Immersive-Cooking",
+        "path":  "Immersive-Cooking-1.20.1/src/generated/resources/data/immersivecooking/tags/items/juice_ingredients/red_grapejuice.json",
+        "url":  "https://github.com/akkiserver-dev/Immersive-Cooking"
+    },
+    {
+        "repo":  "akkiserver-dev/Immersive-Cooking",
+        "path":  "Immersive-Cooking-1.20.1/src/generated/resources/data/immersivecooking/tags/items/juice_ingredients/red_jungle_grapejuice.json",
+        "url":  "https://github.com/akkiserver-dev/Immersive-Cooking"
+    },
+    {
+        "repo":  "akkiserver-dev/Immersive-Cooking",
+        "path":  "Immersive-Cooking-1.20.1/src/generated/resources/data/immersivecooking/tags/items/juice_ingredients/red_savanna_grapejuice.json",
+        "url":  "https://github.com/akkiserver-dev/Immersive-Cooking"
+    },
+    {
+        "repo":  "akkiserver-dev/Immersive-Cooking",
+        "path":  "Immersive-Cooking-1.20.1/src/generated/resources/data/immersivecooking/tags/items/juice_ingredients/red_taiga_grapejuice.json",
+        "url":  "https://github.com/akkiserver-dev/Immersive-Cooking"
+    },
+    {
+        "repo":  "akkiserver-dev/Immersive-Cooking",
+        "path":  "Immersive-Cooking-1.20.1/src/generated/resources/data/immersivecooking/tags/items/juice_ingredients/white_grapejuice.json",
+        "url":  "https://github.com/akkiserver-dev/Immersive-Cooking"
+    },
+    {
+        "repo":  "akkiserver-dev/Immersive-Cooking",
+        "path":  "Immersive-Cooking-1.20.1/src/generated/resources/data/immersivecooking/tags/items/juice_ingredients/white_jungle_grapejuice.json",
+        "url":  "https://github.com/akkiserver-dev/Immersive-Cooking"
+    },
+    {
+        "repo":  "akkiserver-dev/Immersive-Cooking",
+        "path":  "Immersive-Cooking-1.20.1/src/generated/resources/data/immersivecooking/tags/items/juice_ingredients/white_savanna_grapejuice.json",
+        "url":  "https://github.com/akkiserver-dev/Immersive-Cooking"
+    },
+    {
+        "repo":  "akkiserver-dev/Immersive-Cooking",
+        "path":  "Immersive-Cooking-1.20.1/src/generated/resources/data/immersivecooking/tags/items/juice_ingredients/white_taiga_grapejuice.json",
+        "url":  "https://github.com/akkiserver-dev/Immersive-Cooking"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/atmospheric/tags/items/aloe_leaves.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/atmospheric/tags/items/cochineal_food.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/atmospheric/tags/items/passion_fruit.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/atmospheric/tags/items/yucca_fruit.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/autumnity/tags/items/snail_snacks.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/blueprint/tags/items/wooden_beehives.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/blueprint/tags/items/wooden_bookshelves.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/blueprint/tags/items/wooden_chests.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/blueprint/tags/items/wooden_chiseled_bookshelves.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/blueprint/tags/items/wooden_ladders.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/blueprint/tags/items/wooden_trapped_chests.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/boatload/tags/items/furnace_boats.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/boatload/tags/items/large_boats.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/brewinandchewin/tags/items/fermented_drinks.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/collectorsreap/tags/items/chieftain_crab_food.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/collectorsreap/tags/items/dart_shooters.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/collectorsreap/tags/items/gummies.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/collectorsreap/tags/items/gummies/mob_feedable.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/collectorsreap/tags/items/hot_nether_fruits.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/collectorsreap/tags/items/lucuma_logs.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/diet/tags/items/fruits.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/diet/tags/items/proteins.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/diet/tags/items/special_food.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/diet/tags/items/vegetables.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/farmersdelight/tags/items/cabbage_roll_ingredients.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/farmersdelight/tags/items/cabinets/wooden.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/farmersdelight/tags/items/drinks.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/farmersdelight/tags/items/wild_crops.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/cheese.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/cheese/mild.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/cheese/mild/cream.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/cheese/spicy.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/cheese/sweet.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/clam.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/coffee_beans.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/condensed_milk.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/cooked_crab_meat.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/cooked_fishes.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/cooked_fishes/platinum_bass.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/cooked_nuts.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/cooked_prawn.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/cookies.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/eggs.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/fence_gates/wooden.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/fruits.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/fruits/citrus.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/fruits/dragon_fruit.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/fruits/dragonfruit.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/fruits/lime.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/fruits/lucuma.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/fruits/pomegranate.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/fruits/prickly_pear.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/fruits/wild_berries.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/juices.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/juices/lime.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/mushrooms.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/mushrooms/portobello.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/nuts.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/nuts/peanut.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/raw_clam.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/raw_crab_meat.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/raw_fishes.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/raw_fishes/platinum_bass.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/raw_hoglin.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/raw_prawn.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/raw_strider.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/raw_urchin.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/roe.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/roe/fish.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/roe/prawn.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/ropes.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/seeds.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/seeds/dragon_fruit.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/seeds/lime.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/seeds/pomegranate.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/storage_blocks.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/storage_blocks/gilded_lucuma.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/storage_blocks/lime.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/storage_blocks/lucuma.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/storage_blocks/pink_dragon_fruit.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/storage_blocks/pomegranate.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/storage_blocks/stygian_pomegranate.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/straw.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/tea_leaves/black.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/tea_leaves/green.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/tea_leaves/yellow.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/tortilla.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/vegetables/asparagus.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/vegetables/bullet_pepper.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/forge/tags/items/vegetables/ginger.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/letfishlove/tags/items/fish_food/collectorsreap/platinum_bass.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/letfishlove/tags/items/fish_food/collectorsreap/tiger_prawn.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/minecraft/tags/items/boats.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/minecraft/tags/items/chest_boats.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/minecraft/tags/items/fence_gates.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/minecraft/tags/items/fishes.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/minecraft/tags/items/hanging_signs.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/minecraft/tags/items/leaves.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/minecraft/tags/items/logs_that_burn.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/minecraft/tags/items/piglin_loved.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/minecraft/tags/items/planks.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/minecraft/tags/items/saplings.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/minecraft/tags/items/signs.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/minecraft/tags/items/slabs.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/minecraft/tags/items/small_flowers.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/minecraft/tags/items/stairs.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/minecraft/tags/items/tall_flowers.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/minecraft/tags/items/trim_materials.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/minecraft/tags/items/walls.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/minecraft/tags/items/wooden_buttons.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/minecraft/tags/items/wooden_doors.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/minecraft/tags/items/wooden_fences.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/minecraft/tags/items/wooden_pressure_plates.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/minecraft/tags/items/wooden_slabs.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/minecraft/tags/items/wooden_stairs.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/minecraft/tags/items/wooden_trapdoors.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/neapolitan/tags/items/chocolate_bar.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/neapolitan/tags/items/dried_vanilla_pods.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/neapolitan/tags/items/ice_cream.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/neapolitan/tags/items/mint_leaves.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/neapolitan/tags/items/roasted_adzuki_beans.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/nirvana/tags/items/nauseating.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/seasonals/tags/items/pumpkin_puree.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/sereneseasons/tags/items/autumn_crops.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/sereneseasons/tags/items/spring_crops.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/sereneseasons/tags/items/summer_crops.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/some_assembly_required/tags/items/burger_bun.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/stardew_fishing/tags/items/starts_minigame.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/supplementaries/tags/items/cookies.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/supplementaries/tags/items/flower_box_plantable.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/woodworks/tags/items/leaf_piles.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "brnbrd/CollectorsReap",
+        "path":  "CollectorsReap-1.20.1/src/generated/resources/data/woodworks/tags/items/wooden_boards.json",
+        "url":  "https://github.com/brnbrd/CollectorsReap"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/common/src/generated/resources/data/c/tags/items/food_wrappers.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/common/src/generated/resources/data/c/tags/items/food_wrappers/lumpia_wrapper.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/common/src/generated/resources/data/c/tags/items/tea_ingredients.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/common/src/generated/resources/data/c/tags/items/tea_ingredients/sweet/weak.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/common/src/generated/resources/data/c/tags/items/tools.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/common/src/generated/resources/data/c/tags/items/tools/rolling_pins.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/common/src/generated/resources/data/create/tags/items/upright_on_belt.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/common/src/generated/resources/data/dehydration/tags/items/hydrating_drinks.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/common/src/generated/resources/data/dehydration/tags/items/hydrating_stew.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/common/src/generated/resources/data/farmersdelight/tags/items/cabbage_roll_ingredients.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/common/src/generated/resources/data/farmersdelight/tags/items/wild_crops.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/common/src/generated/resources/data/minecraft/tags/items/small_flowers.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/common/src/generated/resources/data/minecraft/tags/items/tall_flowers.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/common/src/generated/resources/data/minecraft/tags/items/tools.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/common/src/generated/resources/data/minecraft/tags/items/villager_plantable_seeds.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/common/src/generated/resources/data/origins/tags/items/ignore_diet.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/common/src/generated/resources/data/origins/tags/items/meat.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/common/src/generated/resources/data/sereneseasons/tags/items/autumn_crops.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/common/src/generated/resources/data/sereneseasons/tags/items/spring_crops.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/common/src/generated/resources/data/sereneseasons/tags/items/summer_crops.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/common/src/generated/resources/data/supplementaries/tags/items/cookies.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/common/src/generated/resources/data/ubesdelight/tags/items/tools/rolling_pin.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/fabric/src/main/resources/data/c/tags/items/crops.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/fabric/src/main/resources/data/c/tags/items/crops/garlic.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/fabric/src/main/resources/data/c/tags/items/crops/ginger.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/fabric/src/main/resources/data/c/tags/items/crops/lemongrass.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/fabric/src/main/resources/data/c/tags/items/crops/ube.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/fabric/src/main/resources/data/c/tags/items/foods.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/fabric/src/main/resources/data/c/tags/items/foods/cooked_meats/cooked_eggs.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/fabric/src/main/resources/data/c/tags/items/foods/doughs.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/fabric/src/main/resources/data/c/tags/items/foods/raw_fishes.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/fabric/src/main/resources/data/c/tags/items/foods/raw_meats/raw_beef.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/fabric/src/main/resources/data/c/tags/items/foods/raw_meats/raw_chicken.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/fabric/src/main/resources/data/c/tags/items/foods/raw_meats/raw_pork.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/fabric/src/main/resources/data/c/tags/items/foods/vegetables.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/fabric/src/main/resources/data/c/tags/items/foods/vegetables/garlic.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/fabric/src/main/resources/data/c/tags/items/foods/vegetables/ginger.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/fabric/src/main/resources/data/c/tags/items/foods/vegetables/lemongrass.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/fabric/src/main/resources/data/c/tags/items/foods/vegetables/ube.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/fabric/src/main/resources/data/c/tags/items/grains.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/fabric/src/main/resources/data/c/tags/items/milk/milk_bottle.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/fabric/src/main/resources/data/c/tags/items/milks.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/fabric/src/main/resources/data/c/tags/items/milks/milk_bottles.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/fabric/src/main/resources/data/c/tags/items/salad_ingredients.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/fabric/src/main/resources/data/c/tags/items/salad_ingredients/lemongrass.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/fabric/src/main/resources/data/c/tags/items/seeds.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/fabric/src/main/resources/data/c/tags/items/seeds/lemongrass.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/fabric/src/main/resources/data/c/tags/items/vegetables.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/fabric/src/main/resources/data/c/tags/items/vegetables/garlic.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/fabric/src/main/resources/data/c/tags/items/vegetables/ginger.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/fabric/src/main/resources/data/c/tags/items/vegetables/lemongrass.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/fabric/src/main/resources/data/c/tags/items/vegetables/ube.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/forge/src/main/resources/data/forge/tags/items/crops.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/forge/src/main/resources/data/forge/tags/items/crops/garlic.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/forge/src/main/resources/data/forge/tags/items/crops/ginger.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/forge/src/main/resources/data/forge/tags/items/crops/lemongrass.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/forge/src/main/resources/data/forge/tags/items/crops/ube.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/forge/src/main/resources/data/forge/tags/items/milk.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/forge/src/main/resources/data/forge/tags/items/milk/milk_bottle.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/forge/src/main/resources/data/forge/tags/items/salad_ingredients.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/forge/src/main/resources/data/forge/tags/items/salad_ingredients/lemongrass.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/forge/src/main/resources/data/forge/tags/items/seeds.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/forge/src/main/resources/data/forge/tags/items/seeds/lemongrass.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/forge/src/main/resources/data/forge/tags/items/storage_blocks/garlic.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/forge/src/main/resources/data/forge/tags/items/storage_blocks/ginger.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/forge/src/main/resources/data/forge/tags/items/storage_blocks/lemongrass.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/forge/src/main/resources/data/forge/tags/items/storage_blocks/ube.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/forge/src/main/resources/data/forge/tags/items/tools.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/forge/src/main/resources/data/forge/tags/items/tools/rolling_pins.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/forge/src/main/resources/data/forge/tags/items/vegetables.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/forge/src/main/resources/data/forge/tags/items/vegetables/garlic.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/forge/src/main/resources/data/forge/tags/items/vegetables/ginger.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/forge/src/main/resources/data/forge/tags/items/vegetables/lemongrass.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "path":  "ubes-delight-1.20.1-multi/forge/src/main/resources/data/forge/tags/items/vegetables/ube.json",
+        "url":  "https://github.com/ChefMooon/ubes-delight"
+    },
+    {
+        "repo":  "DakotaPride/Critters-Delight",
+        "path":  "Critters-Delight-master/src/main/resources/data/farmersdelight/tags/items/cabinets.json",
+        "url":  "https://github.com/DakotaPride/Critters-Delight"
+    },
+    {
+        "repo":  "DakotaPride/Critters-Delight",
+        "path":  "Critters-Delight-master/src/main/resources/data/farmersdelight/tags/items/cabinets/wooden.json",
+        "url":  "https://github.com/DakotaPride/Critters-Delight"
+    },
+    {
+        "repo":  "DakotaPride/Critters-Delight",
+        "path":  "Critters-Delight-master/src/main/resources/data/farmersdelight/tags/items/tools/knives.json",
+        "url":  "https://github.com/DakotaPride/Critters-Delight"
+    },
+    {
+        "repo":  "DakotaPride/Critters-Delight",
+        "path":  "Critters-Delight-master/src/main/resources/data/forge/tags/items/cooked_bouncelizard.json",
+        "url":  "https://github.com/DakotaPride/Critters-Delight"
+    },
+    {
+        "repo":  "DakotaPride/Critters-Delight",
+        "path":  "Critters-Delight-master/src/main/resources/data/forge/tags/items/cooked_fishes/avoider.json",
+        "url":  "https://github.com/DakotaPride/Critters-Delight"
+    },
+    {
+        "repo":  "DakotaPride/Critters-Delight",
+        "path":  "Critters-Delight-master/src/main/resources/data/forge/tags/items/cooked_fishes/blubberfish.json",
+        "url":  "https://github.com/DakotaPride/Critters-Delight"
+    },
+    {
+        "repo":  "DakotaPride/Critters-Delight",
+        "path":  "Critters-Delight-master/src/main/resources/data/forge/tags/items/cooked_fishes/kelpire.json",
+        "url":  "https://github.com/DakotaPride/Critters-Delight"
+    },
+    {
+        "repo":  "DakotaPride/Critters-Delight",
+        "path":  "Critters-Delight-master/src/main/resources/data/forge/tags/items/cooked_fishes/nauticrawl.json",
+        "url":  "https://github.com/DakotaPride/Critters-Delight"
+    },
+    {
+        "repo":  "DakotaPride/Critters-Delight",
+        "path":  "Critters-Delight-master/src/main/resources/data/forge/tags/items/cooked_fishes/stincarp.json",
+        "url":  "https://github.com/DakotaPride/Critters-Delight"
+    },
+    {
+        "repo":  "DakotaPride/Critters-Delight",
+        "path":  "Critters-Delight-master/src/main/resources/data/forge/tags/items/cooked_mightshroom.json",
+        "url":  "https://github.com/DakotaPride/Critters-Delight"
+    },
+    {
+        "repo":  "DakotaPride/Critters-Delight",
+        "path":  "Critters-Delight-master/src/main/resources/data/forge/tags/items/explosive_jelly.json",
+        "url":  "https://github.com/DakotaPride/Critters-Delight"
+    },
+    {
+        "repo":  "DakotaPride/Critters-Delight",
+        "path":  "Critters-Delight-master/src/main/resources/data/forge/tags/items/raw_bouncelizard.json",
+        "url":  "https://github.com/DakotaPride/Critters-Delight"
+    },
+    {
+        "repo":  "DakotaPride/Critters-Delight",
+        "path":  "Critters-Delight-master/src/main/resources/data/forge/tags/items/raw_fishes.json",
+        "url":  "https://github.com/DakotaPride/Critters-Delight"
+    },
+    {
+        "repo":  "DakotaPride/Critters-Delight",
+        "path":  "Critters-Delight-master/src/main/resources/data/forge/tags/items/raw_mightshroom.json",
+        "url":  "https://github.com/DakotaPride/Critters-Delight"
+    },
+    {
+        "repo":  "DakotaPride/Critters-Delight",
+        "path":  "Critters-Delight-master/src/main/resources/data/forge/tags/items/tools/knives.json",
+        "url":  "https://github.com/DakotaPride/Critters-Delight"
+    },
+    {
+        "repo":  "DakotaPride/Critters-Delight",
+        "path":  "Critters-Delight-master/src/main/resources/data/forge/tags/items/warptrap/cooked_trapperloin.json",
+        "url":  "https://github.com/DakotaPride/Critters-Delight"
+    },
+    {
+        "repo":  "DakotaPride/Critters-Delight",
+        "path":  "Critters-Delight-master/src/main/resources/data/forge/tags/items/warptrap/cooked_warpnosh.json",
+        "url":  "https://github.com/DakotaPride/Critters-Delight"
+    },
+    {
+        "repo":  "DakotaPride/Critters-Delight",
+        "path":  "Critters-Delight-master/src/main/resources/data/forge/tags/items/warptrap/raw_trapperloin.json",
+        "url":  "https://github.com/DakotaPride/Critters-Delight"
+    },
+    {
+        "repo":  "DakotaPride/Critters-Delight",
+        "path":  "Critters-Delight-master/src/main/resources/data/forge/tags/items/warptrap/raw_warpnosh.json",
+        "url":  "https://github.com/DakotaPride/Critters-Delight"
+    },
+    {
+        "repo":  "pawjwp/Legume-Delight",
+        "path":  "Legume-Delight-main/src/generated/resources/data/create/tags/items/upright_on_belt.json",
+        "url":  "https://github.com/pawjwp/Legume-Delight"
+    },
+    {
+        "repo":  "pawjwp/Legume-Delight",
+        "path":  "Legume-Delight-main/src/generated/resources/data/diet/tags/items/grains.json",
+        "url":  "https://github.com/pawjwp/Legume-Delight"
+    },
+    {
+        "repo":  "pawjwp/Legume-Delight",
+        "path":  "Legume-Delight-main/src/generated/resources/data/diet/tags/items/proteins.json",
+        "url":  "https://github.com/pawjwp/Legume-Delight"
+    },
+    {
+        "repo":  "pawjwp/Legume-Delight",
+        "path":  "Legume-Delight-main/src/generated/resources/data/diet/tags/items/vegetables.json",
+        "url":  "https://github.com/pawjwp/Legume-Delight"
+    },
+    {
+        "repo":  "pawjwp/Legume-Delight",
+        "path":  "Legume-Delight-main/src/generated/resources/data/farmersdelight/tags/items/meals.json",
+        "url":  "https://github.com/pawjwp/Legume-Delight"
+    },
+    {
+        "repo":  "pawjwp/Legume-Delight",
+        "path":  "Legume-Delight-main/src/generated/resources/data/farmersdelight/tags/items/snacks.json",
+        "url":  "https://github.com/pawjwp/Legume-Delight"
+    },
+    {
+        "repo":  "pawjwp/Legume-Delight",
+        "path":  "Legume-Delight-main/src/generated/resources/data/farmersdelight/tags/items/sweets.json",
+        "url":  "https://github.com/pawjwp/Legume-Delight"
+    },
+    {
+        "repo":  "pawjwp/Legume-Delight",
+        "path":  "Legume-Delight-main/src/generated/resources/data/forge/tags/items/bean.json",
+        "url":  "https://github.com/pawjwp/Legume-Delight"
+    },
+    {
+        "repo":  "pawjwp/Legume-Delight",
+        "path":  "Legume-Delight-main/src/generated/resources/data/forge/tags/items/bean_paste.json",
+        "url":  "https://github.com/pawjwp/Legume-Delight"
+    },
+    {
+        "repo":  "pawjwp/Legume-Delight",
+        "path":  "Legume-Delight-main/src/generated/resources/data/forge/tags/items/beans.json",
+        "url":  "https://github.com/pawjwp/Legume-Delight"
+    },
+    {
+        "repo":  "pawjwp/Legume-Delight",
+        "path":  "Legume-Delight-main/src/generated/resources/data/forge/tags/items/beans/bean.json",
+        "url":  "https://github.com/pawjwp/Legume-Delight"
+    },
+    {
+        "repo":  "pawjwp/Legume-Delight",
+        "path":  "Legume-Delight-main/src/generated/resources/data/forge/tags/items/berries.json",
+        "url":  "https://github.com/pawjwp/Legume-Delight"
+    },
+    {
+        "repo":  "pawjwp/Legume-Delight",
+        "path":  "Legume-Delight-main/src/generated/resources/data/forge/tags/items/crops.json",
+        "url":  "https://github.com/pawjwp/Legume-Delight"
+    },
+    {
+        "repo":  "pawjwp/Legume-Delight",
+        "path":  "Legume-Delight-main/src/generated/resources/data/forge/tags/items/crops/bean.json",
+        "url":  "https://github.com/pawjwp/Legume-Delight"
+    },
+    {
+        "repo":  "pawjwp/Legume-Delight",
+        "path":  "Legume-Delight-main/src/generated/resources/data/forge/tags/items/crops/peanut.json",
+        "url":  "https://github.com/pawjwp/Legume-Delight"
+    },
+    {
+        "repo":  "pawjwp/Legume-Delight",
+        "path":  "Legume-Delight-main/src/generated/resources/data/forge/tags/items/fruits.json",
+        "url":  "https://github.com/pawjwp/Legume-Delight"
+    },
+    {
+        "repo":  "pawjwp/Legume-Delight",
+        "path":  "Legume-Delight-main/src/generated/resources/data/forge/tags/items/legumes.json",
+        "url":  "https://github.com/pawjwp/Legume-Delight"
+    },
+    {
+        "repo":  "pawjwp/Legume-Delight",
+        "path":  "Legume-Delight-main/src/generated/resources/data/forge/tags/items/legumes/bean.json",
+        "url":  "https://github.com/pawjwp/Legume-Delight"
+    },
+    {
+        "repo":  "pawjwp/Legume-Delight",
+        "path":  "Legume-Delight-main/src/generated/resources/data/forge/tags/items/legumes/peanut.json",
+        "url":  "https://github.com/pawjwp/Legume-Delight"
+    },
+    {
+        "repo":  "pawjwp/Legume-Delight",
+        "path":  "Legume-Delight-main/src/generated/resources/data/forge/tags/items/nut_butter.json",
+        "url":  "https://github.com/pawjwp/Legume-Delight"
+    },
+    {
+        "repo":  "pawjwp/Legume-Delight",
+        "path":  "Legume-Delight-main/src/generated/resources/data/forge/tags/items/nuts.json",
+        "url":  "https://github.com/pawjwp/Legume-Delight"
+    },
+    {
+        "repo":  "pawjwp/Legume-Delight",
+        "path":  "Legume-Delight-main/src/generated/resources/data/forge/tags/items/nuts/peanut.json",
+        "url":  "https://github.com/pawjwp/Legume-Delight"
+    },
+    {
+        "repo":  "pawjwp/Legume-Delight",
+        "path":  "Legume-Delight-main/src/generated/resources/data/forge/tags/items/peanut.json",
+        "url":  "https://github.com/pawjwp/Legume-Delight"
+    },
+    {
+        "repo":  "pawjwp/Legume-Delight",
+        "path":  "Legume-Delight-main/src/generated/resources/data/forge/tags/items/peanut_butter.json",
+        "url":  "https://github.com/pawjwp/Legume-Delight"
+    },
+    {
+        "repo":  "pawjwp/Legume-Delight",
+        "path":  "Legume-Delight-main/src/generated/resources/data/forge/tags/items/peanuts.json",
+        "url":  "https://github.com/pawjwp/Legume-Delight"
+    },
+    {
+        "repo":  "pawjwp/Legume-Delight",
+        "path":  "Legume-Delight-main/src/generated/resources/data/forge/tags/items/red_bean_paste.json",
+        "url":  "https://github.com/pawjwp/Legume-Delight"
+    },
+    {
+        "repo":  "pawjwp/Legume-Delight",
+        "path":  "Legume-Delight-main/src/generated/resources/data/forge/tags/items/refried_beans.json",
+        "url":  "https://github.com/pawjwp/Legume-Delight"
+    },
+    {
+        "repo":  "pawjwp/Legume-Delight",
+        "path":  "Legume-Delight-main/src/generated/resources/data/forge/tags/items/storage_blocks/bean.json",
+        "url":  "https://github.com/pawjwp/Legume-Delight"
+    },
+    {
+        "repo":  "pawjwp/Legume-Delight",
+        "path":  "Legume-Delight-main/src/generated/resources/data/forge/tags/items/storage_blocks/peanut.json",
+        "url":  "https://github.com/pawjwp/Legume-Delight"
+    },
+    {
+        "repo":  "pawjwp/Legume-Delight",
+        "path":  "Legume-Delight-main/src/generated/resources/data/minecraft/tags/items/villager_plantable_seeds.json",
+        "url":  "https://github.com/pawjwp/Legume-Delight"
+    },
+    {
+        "repo":  "pawjwp/Legume-Delight",
+        "path":  "Legume-Delight-main/src/generated/resources/data/sereneseasons/tags/items/spring_crops.json",
+        "url":  "https://github.com/pawjwp/Legume-Delight"
+    },
+    {
+        "repo":  "pawjwp/Legume-Delight",
+        "path":  "Legume-Delight-main/src/generated/resources/data/sereneseasons/tags/items/summer_crops.json",
+        "url":  "https://github.com/pawjwp/Legume-Delight"
+    },
+    {
+        "repo":  "pawjwp/Legume-Delight",
+        "path":  "Legume-Delight-main/src/generated/resources/data/tconstruct/tags/items/seeds.json",
+        "url":  "https://github.com/pawjwp/Legume-Delight"
+    },
+    {
+        "repo":  "Potan7/KoreanDelight",
+        "path":  "KoreanDelight-develop/src/main/resources/data/forge/tags/items/seeds.json",
+        "url":  "https://github.com/Potan7/KoreanDelight"
+    },
+    {
+        "repo":  "Potan7/KoreanDelight",
+        "path":  "KoreanDelight-develop/src/main/resources/data/forge/tags/items/vegetables.json",
+        "url":  "https://github.com/Potan7/KoreanDelight"
+    },
+    {
+        "repo":  "Potan7/KoreanDelight",
+        "path":  "KoreanDelight-develop/src/main/resources/data/forge/tags/items/vegetables/kimchi_cabbage.json",
+        "url":  "https://github.com/Potan7/KoreanDelight"
+    },
+    {
+        "repo":  "Potan7/KoreanDelight",
+        "path":  "KoreanDelight-develop/src/main/resources/data/forge/tags/items/vegetables/red_pepper.json",
+        "url":  "https://github.com/Potan7/KoreanDelight"
+    },
+    {
+        "repo":  "Potan7/KoreanDelight",
+        "path":  "KoreanDelight-develop/src/main/resources/data/koreandelight/tags/items/kimchi.json",
+        "url":  "https://github.com/Potan7/KoreanDelight"
+    },
+    {
+        "repo":  "Potan7/KoreanDelight",
+        "path":  "KoreanDelight-develop/src/main/resources/data/koreandelight/tags/items/kimjang_seasonings.json",
+        "url":  "https://github.com/Potan7/KoreanDelight"
+    },
+    {
+        "repo":  "Potan7/KoreanDelight",
+        "path":  "KoreanDelight-develop/src/main/resources/data/koreandelight/tags/items/meju.json",
+        "url":  "https://github.com/Potan7/KoreanDelight"
+    },
+    {
+        "repo":  "tiomadre/farmersassortment",
+        "path":  "farmersassortment-new_main/src/generated/resources/data/farmersassortment/tags/items/cooking_pots.json",
+        "url":  "https://github.com/tiomadre/farmersassortment"
+    },
+    {
+        "repo":  "tiomadre/farmersassortment",
+        "path":  "farmersassortment-new_main/src/generated/resources/data/farmersassortment/tags/items/cutting_boards.json",
+        "url":  "https://github.com/tiomadre/farmersassortment"
+    },
+    {
+        "repo":  "tiomadre/farmersassortment",
+        "path":  "farmersassortment-new_main/src/generated/resources/data/farmersdelight/tags/items/tools/knives.json",
+        "url":  "https://github.com/tiomadre/farmersassortment"
+    },
+    {
+        "repo":  "tiomadre/farmersassortment",
+        "path":  "farmersassortment-new_main/src/main/resources/data/farmersassortment/tags/items/tools/knives.json",
+        "url":  "https://github.com/tiomadre/farmersassortment"
+    },
+    {
+        "repo":  "tiomadre/farmersassortment",
+        "path":  "farmersassortment-new_main/src/main/resources/data/farmersdelight/tags/items/tools/knives.json",
+        "url":  "https://github.com/tiomadre/farmersassortment"
+    },
+    {
+        "repo":  "tiomadre/farmersassortment",
+        "path":  "farmersassortment-new_main/src/main/resources/data/forge/tags/items/tools/knives.json",
+        "url":  "https://github.com/tiomadre/farmersassortment"
+    },
+    {
+        "repo":  "Warsnake90/poppydelight",
+        "path":  "poppydelight-master/src/main/resources/data/forge/tags/items/crops.json",
+        "url":  "https://github.com/Warsnake90/poppydelight"
+    },
+    {
+        "repo":  "Warsnake90/poppydelight",
+        "path":  "poppydelight-master/src/main/resources/data/forge/tags/items/dusts.json",
+        "url":  "https://github.com/Warsnake90/poppydelight"
+    },
+    {
+        "repo":  "Warsnake90/poppydelight",
+        "path":  "poppydelight-master/src/main/resources/data/forge/tags/items/fiber.json",
+        "url":  "https://github.com/Warsnake90/poppydelight"
+    },
+    {
+        "repo":  "Warsnake90/poppydelight",
+        "path":  "poppydelight-master/src/main/resources/data/forge/tags/items/seeds.json",
+        "url":  "https://github.com/Warsnake90/poppydelight"
+    },
+    {
+        "repo":  "Warsnake90/poppydelight",
+        "path":  "poppydelight-master/src/main/resources/data/minecraft/tags/items/music_discs.json",
+        "url":  "https://github.com/Warsnake90/poppydelight"
+    },
+    {
+        "repo":  "Warsnake90/poppydelight",
+        "path":  "poppydelight-master/src/main/resources/data/poppydelight/tags/items/datura.json",
+        "url":  "https://github.com/Warsnake90/poppydelight"
+    },
+    {
+        "repo":  "Warsnake90/poppydelight",
+        "path":  "poppydelight-master/src/main/resources/data/poppydelight/tags/items/foods.json",
+        "url":  "https://github.com/Warsnake90/poppydelight"
+    },
+    {
+        "repo":  "Warsnake90/poppydelight",
+        "path":  "poppydelight-master/src/main/resources/data/poppydelight/tags/items/opium.json",
+        "url":  "https://github.com/Warsnake90/poppydelight"
+    },
+    {
+        "repo":  "Warsnake90/poppydelight",
+        "path":  "poppydelight-master/src/main/resources/data/poppydelight/tags/items/rollingpaper.json",
+        "url":  "https://github.com/Warsnake90/poppydelight"
+    },
+    {
+        "repo":  "Warsnake90/poppydelight",
+        "path":  "poppydelight-master/src/main/resources/data/poppydelight/tags/items/shroom.json",
+        "url":  "https://github.com/Warsnake90/poppydelight"
+    }
+]

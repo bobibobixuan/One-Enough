@@ -38,3 +38,15 @@ hs_err_*.log
 replay_*.log
 *.hprof
 *.jfr
+
+# analysis artifacts
+
+analysis/modrinth-delight-scan/downloads/
+analysis/modrinth-delight-scan/local-delight-mods.json
+analysis/modrinth-delight-scan/suspicious-accepted-groups.json
+analysis/github-delight-scan/source-archives/
+analysis/github-delight-scan/tag-entries.partial.json
+
+# runtime logs
+
+log/

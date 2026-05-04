@@ -1,0 +1,20 @@
+{
+	"replace": false,
+	"values": [
+		"rusticdelight:bell_pepper",
+		"rusticdelight:bell_pepper_yellow",
+		"rusticdelight:bell_pepper_green",
+		"rusticdelight:bell_pepper_red",
+		"rusticdelight:yellow_bell_pepper",
+		"rusticdelight:green_bell_pepper",
+		"rusticdelight:red_bell_pepper",
+		"croptopia:bellpepper",
+		"veggiesdelight:bell_pepper",
+		"veggiesdelight:bell_pepper_yellow",
+		"veggiesdelight:bell_pepper_green",
+		"veggiesdelight:bell_pepper_red",
+		"veggiesdelight:yellow_bell_pepper",
+		"veggiesdelight:green_bell_pepper",
+		"veggiesdelight:red_bell_pepper"
+	]
+}

@@ -1,0 +1,122 @@
+﻿[
+    {
+        "full_name":  "0999312/Corn-Delight",
+        "html_url":  "https://github.com/0999312/Corn-Delight",
+        "default_branch":  "1.20.x",
+        "description":  "Farmer\u0027s Delight Addon with Corn/Maize"
+    },
+    {
+        "full_name":  "akkiserver-dev/Immersive-Cooking",
+        "html_url":  "https://github.com/akkiserver-dev/Immersive-Cooking",
+        "default_branch":  "1.20.1",
+        "description":  "A Immersive Engineering addon adding multiblock integration for Farmer\u0027s Delight/Let\u0027s Do Series"
+    },
+    {
+        "full_name":  "AmarokIce/CoffeeDelight",
+        "html_url":  "https://github.com/AmarokIce/CoffeeDelight",
+        "default_branch":  "master",
+        "description":  "An addon for Farmer\u0027s Delight!"
+    },
+    {
+        "full_name":  "axperty/tweaksdelight",
+        "html_url":  "https://github.com/axperty/tweaksdelight",
+        "default_branch":  "1.21-fabric",
+        "description":  "An addon mod for Farmer\u0027s Delight that adds extra features to the base mod."
+    },
+    {
+        "full_name":  "brnbrd/CollectorsReap",
+        "html_url":  "https://github.com/brnbrd/CollectorsReap",
+        "default_branch":  "1.20.1",
+        "description":  "Farmer\u0027s Delight addon with foods scavenged from the wild."
+    },
+    {
+        "full_name":  "chefexperte/FarmersCreate",
+        "html_url":  "https://github.com/chefexperte/FarmersCreate",
+        "default_branch":  "main",
+        "description":  "A fabric mod for Minecraft 1.21.11 that introduces compatibility between recipes  for the cutting board and cooking pot from Farmer\u0027s Delight and it\u0027s addons to the Create mod Farbic fork for 1.21.11"
+    },
+    {
+        "full_name":  "ChefMooon/ubes-delight",
+        "html_url":  "https://github.com/ChefMooon/ubes-delight",
+        "default_branch":  "1.20.1/multi",
+        "description":  "Ube’s Delight is an addon mod for Farmer\u0027s Delight that adds Filipino inspired crops and food."
+    },
+    {
+        "full_name":  "DakotaPride/Critters-Delight",
+        "html_url":  "https://github.com/DakotaPride/Critters-Delight",
+        "default_branch":  "master",
+        "description":  "An addon adding more culinary content for More Critters with Farmer\u0027s Delight"
+    },
+    {
+        "full_name":  "IAmACloud44/Gardener-s-Delight",
+        "html_url":  "https://github.com/IAmACloud44/Gardener-s-Delight",
+        "default_branch":  "main",
+        "description":  "A Farmer\u0027s Delight addon expanding on flowers and crops"
+    },
+    {
+        "full_name":  "jasbrela/right-click-and-milk",
+        "html_url":  "https://github.com/jasbrela/right-click-and-milk",
+        "default_branch":  "1.21.1",
+        "description":  "An Minecraft addon mod for Farmer\u0027s Delight that makes it easier to collect milk from cow, goat and mooshrooms."
+    },
+    {
+        "full_name":  "Johnyel/FarmersDelightPlus",
+        "html_url":  "https://github.com/Johnyel/FarmersDelightPlus",
+        "default_branch":  "main",
+        "description":  "Farmer\u0027s Delight addon, which adds a lot of new delicious meals in a vanilla style."
+    },
+    {
+        "full_name":  "Magafin/NoMansDelight",
+        "html_url":  "https://github.com/Magafin/NoMansDelight",
+        "default_branch":  "master",
+        "description":  "No Man\u0027s Land \u0026 Farmer\u0027s Delight Addon"
+    },
+    {
+        "full_name":  "Partonetrain/yafda",
+        "html_url":  "https://github.com/Partonetrain/yafda",
+        "default_branch":  "1.21.1",
+        "description":  "yet another farmer\u0027s delight addon"
+    },
+    {
+        "full_name":  "pawjwp/Legume-Delight",
+        "html_url":  "https://github.com/pawjwp/Legume-Delight",
+        "default_branch":  "main",
+        "description":  "Farmer\u0027s Delight addon that adds legumes"
+    },
+    {
+        "full_name":  "peppercornMC/AussieDelight",
+        "html_url":  "https://github.com/peppercornMC/AussieDelight",
+        "default_branch":  "1.20.1-Forge",
+        "description":  "A Farmer\u0027s Delight addon about Australia"
+    },
+    {
+        "full_name":  "Potan7/KoreanDelight",
+        "html_url":  "https://github.com/Potan7/KoreanDelight",
+        "default_branch":  "develop",
+        "description":  "Farmer\u0027s Delight\u0027s Addon"
+    },
+    {
+        "full_name":  "Screamermod/DesertDelight",
+        "html_url":  "https://github.com/Screamermod/DesertDelight",
+        "default_branch":  "main",
+        "description":  "A Farmer\u0027s Delight Addon.\\nDesert foods for surviving the harsh environment."
+    },
+    {
+        "full_name":  "TheGridExpert/VampiresDelight",
+        "html_url":  "https://github.com/TheGridExpert/VampiresDelight",
+        "default_branch":  "1.21",
+        "description":  "A minecraft addon mod for Vampirism and Farmer\u0027s Delight"
+    },
+    {
+        "full_name":  "tiomadre/farmersassortment",
+        "html_url":  "https://github.com/tiomadre/farmersassortment",
+        "default_branch":  "new_main",
+        "description":  "Farmer\u0027s Assortment is a new addon for Farmer\u0027s Delight that seeks to add variants of some of its core blocks and items."
+    },
+    {
+        "full_name":  "Warsnake90/poppydelight",
+        "html_url":  "https://github.com/Warsnake90/poppydelight",
+        "default_branch":  "master",
+        "description":  "Farmer\u0027s delight addon for processing poppies and lacing foods."
+    }
+]

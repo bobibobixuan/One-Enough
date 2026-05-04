@@ -1,0 +1,65 @@
+﻿[
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "release":  "v0.4.6-beta",
+        "asset_name":  "ubesdelight-fabric-1.21.5-0.4.6-beta-3.0.0+refab.jar",
+        "asset_url":  "https://github.com/ChefMooon/ubes-delight/releases/download/v0.4.6-beta/ubesdelight-fabric-1.21.5-0.4.6-beta-3.0.0%2Brefab.jar",
+        "size":  1182334
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "release":  "v0.4.6-beta-2",
+        "asset_name":  "ubesdelight-fabric-1.21.5-0.4.6-beta-2.jar",
+        "asset_url":  "https://github.com/ChefMooon/ubes-delight/releases/download/v0.4.6-beta-2/ubesdelight-fabric-1.21.5-0.4.6-beta-2.jar",
+        "size":  1196758
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "release":  "v0.4.6-beta-2",
+        "asset_name":  "ubesdelight-fabric-1.21.8-0.4.6-beta-2.jar",
+        "asset_url":  "https://github.com/ChefMooon/ubes-delight/releases/download/v0.4.6-beta-2/ubesdelight-fabric-1.21.8-0.4.6-beta-2.jar",
+        "size":  1197476
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "release":  "v0.4.6-beta-3",
+        "asset_name":  "ubesdelight-fabric-1.21.10-0.4.6-beta-3.jar",
+        "asset_url":  "https://github.com/ChefMooon/ubes-delight/releases/download/v0.4.6-beta-3/ubesdelight-fabric-1.21.10-0.4.6-beta-3.jar",
+        "size":  1199589
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "release":  "v0.4.6-beta-3",
+        "asset_name":  "ubesdelight-fabric-1.21.5-0.4.6-beta-3.jar",
+        "asset_url":  "https://github.com/ChefMooon/ubes-delight/releases/download/v0.4.6-beta-3/ubesdelight-fabric-1.21.5-0.4.6-beta-3.jar",
+        "size":  1196308
+    },
+    {
+        "repo":  "ChefMooon/ubes-delight",
+        "release":  "v0.4.6-beta-3",
+        "asset_name":  "ubesdelight-fabric-1.21.8-0.4.6-beta-3.jar",
+        "asset_url":  "https://github.com/ChefMooon/ubes-delight/releases/download/v0.4.6-beta-3/ubesdelight-fabric-1.21.8-0.4.6-beta-3.jar",
+        "size":  1196994
+    },
+    {
+        "repo":  "Warsnake90/poppydelight",
+        "release":  "0.5.1a-PRE",
+        "asset_name":  "poppydelight-0.2.1-Prerelease.jar",
+        "asset_url":  "https://github.com/Warsnake90/poppydelight/releases/download/0.5.1a-PRE/poppydelight-0.2.1-Prerelease.jar",
+        "size":  7340437
+    },
+    {
+        "repo":  "Warsnake90/poppydelight",
+        "release":  "0.6.0_GLSL",
+        "asset_name":  "poppydelight-forge-1.20.1-0.6.0.jar",
+        "asset_url":  "https://github.com/Warsnake90/poppydelight/releases/download/0.6.0_GLSL/poppydelight-forge-1.20.1-0.6.0.jar",
+        "size":  15929193
+    },
+    {
+        "repo":  "Warsnake90/poppydelight",
+        "release":  "0.6.2",
+        "asset_name":  "poppydelight-0.6.2.jar",
+        "asset_url":  "https://github.com/Warsnake90/poppydelight/releases/download/0.6.2/poppydelight-0.6.2.jar",
+        "size":  16019228
+    }
+]

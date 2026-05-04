@@ -1,17 +1,26 @@
 pluginManagement {
 	repositories {
 		maven {
+			name = "Architectury"
+			url = uri("https://maven.architectury.dev/")
+		}
+		maven {
+			name = "Forge"
+			url = uri("https://maven.minecraftforge.net/")
+		}
+		maven {
 			name = "Fabric"
 			url = uri("https://maven.fabricmc.net/")
+		}
+		maven {
+			name = "Kotlin for Forge"
+			url = uri("https://thedarkcolour.github.io/KotlinForForge/")
 		}
 		mavenCentral()
 		gradlePluginPortal()
 	}
-
-	plugins {
-		id("net.fabricmc.fabric-loom-remap") version providers.gradleProperty("loom_version")
-	}
 }
 
-// Should match your modid
 rootProject.name = "one-enough-mod"
+
+include("fabric", "forge")
