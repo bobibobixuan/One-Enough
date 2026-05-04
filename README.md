@@ -1,7 +1,5 @@
 # One Enough
 
-语言说明：联合国正式官方语言实际为 6 种。为满足“8 语版本”的要求，本文采用 6 种联合国语言加 2 种补充国际语言：中文、English、Français、Español、Русский、العربية、Português、हिन्दी。
-
 ## Project Snapshot
 
 | Field | Value |
